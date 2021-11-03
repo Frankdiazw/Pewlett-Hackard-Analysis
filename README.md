@@ -1,5 +1,7 @@
 # Pewlett-Hackard-Analysis
 
+![](blob/main/Resources/Silver_tsunami.png)
+
 ## Overview of the analysis
 Pewlett Hackard is a large company with a large number of employees. As the baby boomers start to retire on a rapid rate, the company is looking into the future in two ways: The first one, is to offer a retirement package for those who meet certain criteria. The second one is to think about the positions that will need to be filled. 
 For this module, the challenge was to create a DataBase for all the employees elegible for retirement.
@@ -18,6 +20,7 @@ For the challenge, the manager has given two more assignments: determine the num
 - Figure 2. Table with the number of retirement-age employees by most recent job title.
 
 - For the **Deliverable 2**, using the ERD that was created in this module as a reference and knowledge of SQL queries, a mentorship-eligibility table was created containing current employees who were born between January 1, 1965 and December 31, 1965.
+- The data was filtered on the to_date column to all the current employees, then the data was filtered on the birth_date columns to get all the employees whose birth dates were between January 1, 1965 and December 31, 1965.
 
 ![](https://github.com/Frankdiazw/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%202.png)
 
