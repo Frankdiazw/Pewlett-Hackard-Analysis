@@ -6,7 +6,8 @@ For this module, the challenge was to create a DataBase for all the employees el
 For the challenge, the manager has given two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Using the previous data created in the module, the challenge was made in pgAdmin 4 and the code was store in Visual Studio Code in a .sql file type.
 
 ## Results
-For the **Deliverable 1**, Using the ERD that was created in this module as a reference and knowledge of SQL queries, a table of retirement titles was created that contained all titles of current employees who were born between January 1, 1952 and December 31 1955. Because some employees might have multiple titles in the database, for example due to promotions, the DISTINCT ON statement was used to create a table containing the most recent title for each employee. Next, the COUNT () function was used to create a final table that has the number of employees of retirement age by most recent job title.
+- For the **Deliverable 1**, Using the ERD that was created in this module as a reference and knowledge of SQL queries, a table of retirement titles was created that contained all titles of current employees who were born between January 1, 1952 and December 31 1955. 
+- Because some employees might have multiple titles in the database, for example due to promotions, the DISTINCT ON statement was used to create a table containing the most recent title for each employee. Next, the COUNT () function was used to create a final table that has the number of employees of retirement age by most recent job title.
 
 ![](https://github.com/Frankdiazw/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable1.png)
 
