@@ -17,7 +17,7 @@ For the challenge, the manager has given two more assignments: determine the num
 
 - Figure 2. Table with the number of retirement-age employees by most recent job title.
 
-For the **Deliverable 2**, using the ERD that was created in this module as a reference and knowledge of SQL queries, a mentorship-eligibility table was created containing current employees who were born between January 1, 1965 and December 31, 1965.
+- For the **Deliverable 2**, using the ERD that was created in this module as a reference and knowledge of SQL queries, a mentorship-eligibility table was created containing current employees who were born between January 1, 1965 and December 31, 1965.
 
 ![](https://github.com/Frankdiazw/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%202.png)
 
